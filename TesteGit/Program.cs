@@ -15,6 +15,7 @@ namespace TesteGit
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("finalizando o programa");
         }
     }
 }
