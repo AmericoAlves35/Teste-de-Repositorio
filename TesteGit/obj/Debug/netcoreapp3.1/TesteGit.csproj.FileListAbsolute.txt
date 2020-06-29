@@ -1,0 +1,13 @@
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csprojAssemblyReference.cache
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+D:\Faculdade Ciencia da Computação\Algoritmos e Programação_SEXTA-FEIRA\Curso C#(Orientado a Objetos)_UDEMY\TesteGit\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
