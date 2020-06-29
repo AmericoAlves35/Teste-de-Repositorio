@@ -6,7 +6,7 @@ namespace TesteGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá, esse é meu teste Git");
+            Console.WriteLine("Olá,meu teste Git");
             Console.WriteLine("Digite um numero inteiro");
             int n=int.Parse(Console.ReadLine());
             Console.WriteLine();
